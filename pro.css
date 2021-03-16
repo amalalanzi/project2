@@ -1,0 +1,27 @@
+
+#menuu{
+  position: absolute;
+    z-index: 1;
+    top:0px;
+  height: 70px;
+  width: 100%;
+  color: gray;
+ position:fixed;
+   box-shadow: 0 4px 6px 0 rgba(0, 0, 0, 0.1);
+ background-color: white;
+}
+#logo{
+ float: right;
+ margin-right: 30px;
+}
+.menu-all .menu {
+  float: right;
+  padding: 10px;
+  list-style-type: none;
+  margin-top: 10px;
+  line-height: 30px;
+}
+.menu-all{
+  position: absolute;
+  left: 50px;
+}
